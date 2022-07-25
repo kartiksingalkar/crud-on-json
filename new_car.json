@@ -1,0 +1,102 @@
+{
+  "state": [
+    {
+      "id": "1",
+      "name": "Toyota Camry",
+      "year": "2018",
+      "price": "2000"
+    },
+    {
+      "id": "2",
+      "name": "Honda Civic",
+      "year": "2019",
+      "price": "2200"
+    },
+    {
+      "id": "3",
+      "name": "Chevrolet Silverado",
+      "year": "2017",
+      "price": "1800"
+    },
+    {
+      "id": "4",
+      "name": "Ford F-150",
+      "year": "2020",
+      "price": "2500"
+    },
+    {
+      "id": "5",
+      "name": "Nissan Altima",
+      "year": "2021",
+      "price": "3000"
+    },
+    {
+      "id": "6",
+      "name": "Eco",
+      "year": "2009",
+      "price": "3000"
+    },
+    {
+      "id": "7",
+      "name": "Sport Altima",
+      "year": "2020",
+      "price": "6000"
+    },
+    {
+      "id": "8",
+      "name": "Ferrari",
+      "year": "2021",
+      "price": "13000"
+    },
+    {
+      "id": "9",
+      "name": "Lambo",
+      "year": "2022",
+      "price": "23000"
+    },
+    {
+      "id": "10",
+      "name": "Honda City",
+      "year": "2021",
+      "price": "9000"
+    },
+    {
+      "id": "11",
+      "name": "Skoda Slavia",
+      "year": "2022",
+      "price": "9000"
+    },
+    {
+      "id": "12",
+      "name": "Inova",
+      "year": "2010",
+      "price": "8000"
+    },
+    {
+      "id": "13",
+      "name": "WagonR",
+      "year": "2012",
+      "price": "2000"
+    },
+    {
+      "id": "14",
+      "name": "Swift",
+      "year": "2011",
+      "price": "3000"
+    }
+  ],
+  "game": [
+    {
+      "id": "111",
+      "name": "kartik"
+    }
+  ],
+  "x": [
+    "apple",
+    "a",
+    "banana",
+    "b",
+    "cherry",
+    "c"
+  ]
+}
